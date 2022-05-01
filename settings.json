@@ -1,0 +1,10 @@
+{
+  "prefix" : ".",
+  "owner" : "918834753996726272",
+  "clientid" : "969993859398529044",
+  "clientcallback" : "https://athenacode.cf/callback",
+  "mongoURL" : "mongodb+srv://Darcard:Darcard@darcard.kxpnj.mongodb.net/Darcard?retryWrites=true&w=majority",
+  "serverID": "940304773759000686",
+  "footer": "Athena Code",
+  "tags": ["Moderasyon", "Eğlence", "Minecraft","Ekonomi","Koruma","NSFW (+18)","Anime","Davet","Müzik","Logging", "Web Panelli", "Reddit", "Youtube", "Twitch", "Crypto", "Seviye", "Oyun", "Roleplay", "Faydalı", "Türkçe"]
+}
